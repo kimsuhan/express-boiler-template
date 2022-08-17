@@ -1,0 +1,19 @@
+# OSX
+.DS_Store
+
+# Dependencies
+node_modules
+
+# yarn error logs
+yarn-error.log
+
+# Environment varibales
+.env.local
+
+# Code coverage
+coverage
+
+# Uploads
+uploads
+
+.vscode
